@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Ri
 
-I have been working on Illustration projects for the last three years and now is currently seeking opportunity towards my dream of being a data analyst. However, I’m still looking for another creative opportunities, feel free to contact me :)
+I have been working on Illustration projects for the last three years and now is currently seeking opportunity towards my dream of being a data analyst. However, I’m still looking for another creative opportunities, feel free to contact me anytime :)
 
 ## 🔍 You Can Find Me at
 
