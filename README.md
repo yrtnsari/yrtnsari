@@ -1,8 +1,7 @@
-<img align='right' src = "https://github.com/yrtnsari/github-stats-transparent/blob/output/generated/overview.svg">
+
 
 # Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Ri
 
-<img align='right' src = "https://github.com/yrtnsari/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## ⭐ My Repositories
 
