@@ -2,14 +2,6 @@
 
 # Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Ri
 
-<p align="justify">
-  I have passionate about Big Data, Data Analyst, Data Science, Machine Learning, and Natural Language Processing. 
-</p>
-
-<!-- ## 👁‍🗨 Visitors Count -->
-
-![Visitor Count](https://profile-counter.glitch.me/{yrtnsari}/count.svg)
-
 <img align='right' src = "https://github.com/yrtnsari/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## ⭐ My Repositories
