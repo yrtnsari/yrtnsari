@@ -18,7 +18,8 @@ I have been working on Illustration projects for the last three years and now is
 
 | 🎓 Courses | [DQLab Data Analyst Career Track](https://github.com/yrtnsari/dqlab-data-analyst-career-track) · [Progate](https://github.com/yrtnsari/Progate) |
 |:--------|:--------------------|
-| ⚙ Projects | [Simple NLP](https://github.com/yrtnsari/Sentiment-Analysis-NLP-with-Python) | [Android Studio](https://github.com/yrtnsari/Android-studio-simple-project) 
+| ⚙ Projects | [Simple NLP](https://github.com/yrtnsari/Sentiment-Analysis-NLP-with-Python) | 
+[Android Studio](https://github.com/yrtnsari/Android-studio-simple-project) 
 
 
 
