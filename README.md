@@ -21,4 +21,6 @@ I have been working on Illustration projects for the last three years and now is
 | ⚙ Projects | [Simple NLP](https://github.com/yrtnsari/Sentiment-Analysis-NLP-with-Python) . [Android Studio](https://github.com/yrtnsari/Android-studio-simple-project) 
 
 
+<!-- ## 👁‍🗨 Visitors Count -->
 
+![Visitor Count](https://profile-counter.glitch.me/{yrtnsari}/count.svg)
