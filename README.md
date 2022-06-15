@@ -1,6 +1,6 @@
 
 
-# Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Ri
+# Hello!  I'm Ri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">
 
 I’ve found that programming broaden my horizon and push my limit even more, which is why I decided to keep learning and achieve more. 
 
