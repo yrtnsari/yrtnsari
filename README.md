@@ -2,7 +2,7 @@
 
 # Hello!  I'm Ri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.png" width="0.01px">
 
-I’ve found that programming broaden my horizon and push my limit even more, which is why I decided to keep learning and achieve more. 
+Enjoys learning new things and meeting new people to broaden my knowledge and perspective. Enthusiastic in generating insights for data-driven decision making. I’ve found that programming broaden my horizon and push my limit even more, which is why I decided to keep learning and achieve more. 
 
 ## 🔍 You Can Find Me at
 
